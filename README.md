@@ -30,11 +30,6 @@
 
 🎮 I am also working on a 2D RPG in Unity  
 
-
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
