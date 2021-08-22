@@ -12,8 +12,7 @@
 
 
 ### Glad to see you here!  
-**There is currently not a great deal of content on this github page
-**  
+**There is currently not a great deal of content on this github page**
   
 
 <br/>  
