@@ -27,7 +27,7 @@
 - 🔧 I’m currently working on various Discord Bots in GOLang  
   
 
-🎮 I am also working on a 2D RPG in Unity  
+- 🎮 I am also working on a 2D RPG in Unity  
 
 </td></tr></table>  
 
