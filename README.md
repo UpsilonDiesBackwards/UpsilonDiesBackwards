@@ -24,7 +24,7 @@
 - 📚 I am a novice programmer, who doesn't really know what they are doing 100% of 90% of the time.  
   
 
-- 🔧 I’m currently working on various Discord Bots in GOLang  
+- 🔧 I’m currently working on various Discord Bots in GO
   
 
 - 🎮 I am also working on a 2D RPG in Unity  
