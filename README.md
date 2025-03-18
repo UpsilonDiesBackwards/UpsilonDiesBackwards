@@ -1,34 +1,22 @@
-## <div align="center">Heyo, I'm Upsilon</div>  
-  
-<div align="center">  
-<a href="https://github.com/UpsilonDiesBackwards " target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>
-  
+## <div align="center">Hello there, I'm Tayler</div>  
+### <div align="center"> Glad to see you!</div>
 
-
-### <div align="center"> Glad to see you here!</div>
-**<div align="center"> There is currently not a great deal of content on this github page</div>**
-
-<br/>  
-
+<br/>
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" halign="center" width="50%">
 
-- 📚 I am a novice programmer, who doesn't really know what they are doing 100% of 90% of the time.  
+- 📚 I am a programmer who is currently a studying Computer Games Production at university
   
 
-- 🔧 I am currently working on various Discord Bots in GO
+- 🔧 I am currently working on a 2D game engine called Marmalade
   
 
-- 🎮 I am also working on a 2D RPG in Unity  
+- 🎮 I also work on various video games!
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
@@ -55,20 +43,4 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=UpsilonDiesBackwards&&style=flat-square" align="center" />
-</div>
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
